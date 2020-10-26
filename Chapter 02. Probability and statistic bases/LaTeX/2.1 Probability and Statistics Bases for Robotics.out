@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{2.1 Probability and Statistics Bases for Robotics}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{2.1.1 The gaussian distribution}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{ASSIGNMENT 1: Computing and plotting gaussians}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{Sampling from a distribution}{subsection.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.3}{ASSIGNMENT 2: Sampling from gaussians}{subsection.1.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.1.4}{Thinking about it \(1\)}{subsection.1.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.1.5}{ASSIGNMENT 3: Building an histogram of samples}{subsection.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.2}{2.1.2 Properties of the Gaussian distribution}{section.1}% 8
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Central limit theorem}{subsection.1.2}% 9
+\BOOKMARK [3][-]{subsubsection.1.2.2}{ASSIGNMENT 4: Verifying the central limit theorem}{subsection.1.2}% 10
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Product of gaussians}{subsection.1.2}% 11
+\BOOKMARK [3][-]{subsubsection.1.2.4}{ASSIGNMENT 5: Multiplying gaussians}{subsection.1.2}% 12
+\BOOKMARK [3][-]{subsubsection.1.2.5}{Linear transformation of gaussian random variables.}{subsection.1.2}% 13
+\BOOKMARK [3][-]{subsubsection.1.2.6}{ASSIGNMENT 6: Applying linear transformations}{subsection.1.2}% 14
+\BOOKMARK [2][-]{subsection.1.3}{2.1.3 Bidimensional normal distribution}{section.1}% 15
+\BOOKMARK [2][-]{subsection.1.4}{Sum of bidimensional random variables}{section.1}% 16
+\BOOKMARK [3][-]{subsubsection.1.4.1}{ASSIGNMENT 7: Summing linear transformations}{subsection.1.4}% 17
+\BOOKMARK [2][-]{subsection.1.5}{Product of gaussian pdfs}{section.1}% 18
+\BOOKMARK [3][-]{subsubsection.1.5.1}{ASSIGNMENT 8: Multiplying bidimensional distributions}{subsection.1.5}% 19
+\BOOKMARK [3][-]{subsubsection.1.5.2}{Linear transformation of normal RVs}{subsection.1.5}% 20
+\BOOKMARK [3][-]{subsubsection.1.5.3}{ASSIGNMENT 9: Applying linear transformation to bidimensional distributions}{subsection.1.5}% 21
+\BOOKMARK [2][-]{subsection.1.6}{Student discussion}{section.1}% 22
