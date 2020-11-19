@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{4.1 Landmark-based models}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{4.1.1 Dealing with landmark-based models}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Playing with landmarks and robot poses}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{ASSIGNMENT 1: Expressing an observed landmark in coordinates of the world frame }{subsection.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.3}{ASSIGNMENT 2: Adding uncertainty to the robot position}{subsection.1.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.1.4}{ASSIGNMENT 3: Getting the relative pose between two robots}{subsection.1.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.1.5}{ASSIGNMENT 4: Predicting an observation from the second robot}{subsection.1.1}% 7
+\BOOKMARK [3][-]{subsubsection.1.1.6}{ASSIGNMENT 5: Combining observations of the same landmark}{subsection.1.1}% 8
+\BOOKMARK [3][-]{subsubsection.1.1.7}{Sensor measurement from R2}{subsection.1.1}% 9
+\BOOKMARK [3][-]{subsubsection.1.1.8}{Combined information}{subsection.1.1}% 10
+\BOOKMARK [3][-]{subsubsection.1.1.9}{Thinking about it \(1\)}{subsection.1.1}% 11
