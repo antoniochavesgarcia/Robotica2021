@@ -1093,7 +1093,7 @@ the following questions}:
   Play with different ``qualities'' of the range sensor. Could you find
   a value for its variance so the LS method fails?
 
-  Yes. It fails when the standard desviation of the sensors is 0.
+  Yes. It fails when the standard desviation of the sensors is 0. This happens because when we compute de increment, Q-matrix is a 0-matrix, and you can't compute the inverse of a null matrix.
 \item
   Play also with different values for the odometry uncertainty. What
   does this affect?
