@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{5.2 EKF Localization}{}% 1
+\BOOKMARK [2][-]{subsubsection.1.0.1}{ASSIGNMENT 1: Getting an observation to a random landmark}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.0.2}{ASSIGNMENT 2: Simulating the robot motion}{subsubsection.1.0.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.0.3}{ASSIGNMENT 3: Jacobians of the observation model}{subsubsection.1.0.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.0.4}{ASSIGNMENT 4: Completing the EKF}{subsubsection.1.0.1}% 5
+\BOOKMARK [2][-]{subsection.1.1}{Playing with EKF}{section.1}% 6
+\BOOKMARK [3][-]{subsubsection.1.1.1}{ASSIGNMENT 5: Implementing the FoV of a sensor.}{subsection.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.2}{Playing with EKF and the new sensor}{section.1}% 8
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Thinking about it \(1\)}{subsection.1.2}% 9
