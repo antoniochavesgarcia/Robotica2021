@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{6.2 Building maps with the Extended Kalman Filter - The Nirvana shopping mall}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{6.2.1 Formalizing the problem}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{6.2.2 Developing the EKF filter for mapping the mall}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{The provided robot}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{The prediction step}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{ASSIGNMENT 1: Implementing the naive prediction step}{subsection.1.2}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.4}{Observing a landmark for first time}{subsection.1.2}% 7
+\BOOKMARK [3][-]{subsubsection.1.2.5}{ASSIGNMENT 2: Incorporating a landmark detected for first time}{subsection.1.2}% 8
+\BOOKMARK [3][-]{subsubsection.1.2.6}{The correction \(update\) step}{subsection.1.2}% 9
+\BOOKMARK [3][-]{subsubsection.1.2.7}{ASSIGNMENT 3: Updating the knowledge about an observed landmark}{subsection.1.2}% 10
+\BOOKMARK [3][-]{subsubsection.1.2.8}{ASSIGNMENT 4: Putting all together in the EKF algorithm}{subsection.1.2}% 11
+\BOOKMARK [2][-]{subsection.1.3}{6.2.3 Testing the mapping system}{section.1}% 12
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Playing with one landmark}{subsection.1.3}% 13
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Considering a larger number of landmarks}{subsection.1.3}% 14
+\BOOKMARK [3][-]{subsubsection.1.3.3}{Thinking about it \(1\)}{subsection.1.3}% 15
+\BOOKMARK [3][-]{subsubsection.1.3.4}{Getting performance results}{subsection.1.3}% 16
+\BOOKMARK [3][-]{subsubsection.1.3.5}{Thinking about it \(2\)}{subsection.1.3}% 17
