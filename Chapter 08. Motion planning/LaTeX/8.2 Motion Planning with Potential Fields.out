@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{8.2 Motion Planning with Potential Fields - Moving in the mall}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{8.2.1 Formalizing the problem}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{8.2.2 Potential Fields}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{8.2.3 Developing the Potential Fields method for Reactive navigation}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.3.1}{ASSIGNMENT 1: Computing the repulsive force}{subsection.1.3}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.2}{ASSIGNMENT 2: Retrieving the repulsive force}{subsection.1.3}% 6
+\BOOKMARK [3][-]{subsubsection.1.3.3}{ASSIGNMENT 3: Concluding with the Total Force}{subsection.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.4}{8.2.4 Understanding how the technique performs}{section.1}% 8
+\BOOKMARK [3][-]{subsubsection.1.4.1}{Thinking about it \(1\)}{subsection.1.4}% 9
